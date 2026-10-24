@@ -3,13 +3,13 @@ An Excel-based sales performance dashboard analyzing revenue, product performanc
 
 Superstore Sales Performance Dashboard
 
-Project Overview
+## Project Overview
 
 This project focuses on analyzing Superstore sales data using Microsoft Excel to evaluate business performance, identify sales trends, and generate insights that can support data-driven decision-making.
 
 The project involved data cleaning, exploratory data analysis, PivotTables, data visualization, and dashboard development.
 
-Project Objectives
+## Project Objectives
 
 - Analyze total revenue, units sold, and total profit.
 - Evaluate sales performance across different regions.
@@ -19,7 +19,7 @@ Project Objectives
 - Examine month-over-month (MoM) sales changes.
 - Present key performance indicators and findings through an Excel dashboard.
 
-Tools and Techniques
+## Tools and Techniques
 
 - Microsoft Excel
 - Data cleaning and formatting
@@ -29,13 +29,13 @@ Tools and Techniques
 - Dashboard development
 - Sales trend analysis
 
-Dataset Overview
+## Dataset Overview
 
 The project uses the Superstore sales dataset, containing approximately 9,994 sales records.
 
 The dataset includes order dates, shipping details, customer information, geographical regions, product categories, product names, sales, quantities, discounts, and profits.
 
-Project Workflow
+## Project Workflow
 
 1. Data Cleaning and Preparation
 
@@ -71,7 +71,7 @@ The dashboard supports the exploration of regional sales, category performance, 
 
 Analyzed monthly sales to identify periods of stronger and weaker performance and examined month-over-month changes.
 
-Key Findings
+## Key Findings
 
 - Regional Performance: The West region recorded the highest revenue, while the South region recorded the lowest revenue.
 - Monthly Sales: November recorded the highest sales among the months analyzed.
@@ -80,7 +80,7 @@ Key Findings
 - Category Profitability: Technology also generated the highest profit among the three product categories.
 - Product Performance: Products were compared based on their revenue contributions to identify top performers.
 
-Project Deliverables
+## Project Deliverables
 
 The project workbook contains the analysis and visual reporting developed in Excel, including:
 
@@ -90,7 +90,7 @@ The project workbook contains the analysis and visual reporting developed in Exc
 - Sales trend analysis
 - Visual summaries of key business metrics
 
-Conclusion
+## Conclusion
 
 This project demonstrates the use of Microsoft Excel to prepare data, analyze sales performance, develop a dashboard, and communicate meaningful business insights.
 

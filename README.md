@@ -41,8 +41,11 @@ The dataset contains approximately 9,994 sales records, including information on
 ## 📈 Key Performance Indicators (KPIs)
 
 Metric| Value
+
 Total Revenue| $2,297,200.86
+
 Total Units Sold| 37,873
+
 Total Profit| $286,397.02
 
 ---

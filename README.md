@@ -1,137 +1,97 @@
-📊 Superstore Sales Performance Dashboard
+## 📊 Superstore Sales Performance Dashboard
 
-A Data Analytics Project Using Microsoft Excel
+## 📌 Project Overview
 
-An Excel-based data analytics project focused on analyzing Superstore sales data, evaluating business performance, identifying trends, and generating insights to support data-driven decision-making.
+This project involves analyzing Superstore sales data using Microsoft Excel to evaluate sales performance, profitability, regional performance, product categories, and monthly sales trends.
+
+The goal is to transform raw data into actionable business insights through an interactive dashboard that supports data-driven decision-making.
 
 ---
 
-🎯 Project Objectives
+## 🎯 Project Objectives
 
-- Analyze total revenue, units sold, and total profit.
-- Evaluate sales performance across geographical regions.
-- Compare revenue and profitability across product categories.
-- Identify top-performing products by sales.
+- Analyze overall sales and profit performance.
+- Identify the best-performing and lowest-performing regions.
+- Evaluate sales and profit across product categories.
 - Analyze monthly sales trends.
-- Examine month-over-month (MoM) sales changes.
-- Present key performance indicators and insights through an Excel dashboard.
+- Compare product performance based on revenue.
+- Present insights through an interactive Excel dashboard.
 
 ---
 
-🛠️ Tools & Techniques
+## 🛠️ Tools and Techniques
 
-Tool / Technique| Application
-Microsoft Excel| Data analysis and dashboard development
-Data Cleaning| Preparing and formatting data for analysis
-PivotTables| Summarizing and comparing sales performance
-PivotCharts| Visualizing sales data and trends
-Excel Formulas| Supporting calculations and analysis
-Data Visualization| Communicating business insights
-
----
-
-📁 Dataset Overview
-
-The project uses the Superstore sales dataset, which contains approximately 9,994 sales records.
-
-Key Data Fields
-
-- Order Date
-- Customer Information
-- Region
-- Product Category and Sub-Category
-- Product Name
-- Sales
-- Quantity
-- Discount
-- Profit
+- Microsoft Excel
+- Data Cleaning and Formatting
+- PivotTables and PivotCharts
+- Data Visualization
+- Sales and Profit Analysis
+- Monthly Trend Analysis
+- Month-over-Month (MoM) Analysis
+- Interactive Dashboard Design
 
 ---
 
-⚙️ Project Workflow
+## 📂 Dataset Description
 
-1. Data Cleaning & Preparation
-
-- Reviewed and organized the dataset.
-- Corrected date formatting to support time-based analysis.
-- Prepared the dataset for analysis and visualization.
-
-2. Exploratory Data Analysis
-
-Used PivotTables to analyze sales performance by:
-
-- Region
-- Product Category
-- Product Name
-- Month
-
-3. KPI Analysis
-
-Calculated key business performance indicators to evaluate overall sales and profitability.
-
-4. Dashboard Development
-
-Created an Excel dashboard to present key metrics, sales comparisons, and trends through visual summaries.
-
-5. Sales Trend Analysis
-
-Analyzed monthly sales patterns and examined month-over-month changes to understand variations in sales performance.
+The dataset contains approximately 9,994 sales records, including information on sales, products, regions, order dates, quantities, and profits.
 
 ---
 
-📈 Key Performance Indicators
+## 📈 Key Performance Indicators (KPIs)
 
-Performance Indicator| Result
-💰 Total Revenue| $2,297,200.86
-📦 Total Units Sold| 37,873
-💵 Total Profit| $286,397.02
-
----
-
-🔍 Key Findings
-
-- Regional Performance: The West region recorded the highest revenue, while the South region recorded the lowest revenue.
-- Monthly Performance: November recorded the highest monthly sales, while February recorded the lowest.
-- Category Revenue: Technology generated the highest revenue among the three product categories.
-- Category Profitability: Technology also generated the highest profit among the three product categories.
-- Product Performance: Products were compared by revenue to identify top-performing products.
+Metric| Value
+Total Revenue| $2,297,200.86
+Total Units Sold| 37,873
+Total Profit| $286,397.02
 
 ---
 
-🖥️ Dashboard Preview
+## 🔍 Key Business Insights
 
-"Superstore Sales Dashboard" (IMG_20261024_083006.jpg)
-
----
-
-📂 Project Deliverable
-
-File: "Superstore_Sales_Performance_Dashboard.xlsx"
-
-The Excel workbook contains the sales analysis, PivotTables, dashboard, and supporting visual summaries.
-
-Key deliverables:
-
-- Prepared sales dataset
-- PivotTable analysis
-- Sales performance dashboard
-- Monthly sales trend analysis
-- Business performance insights
+**- Regional Performance:** The West region recorded the highest revenue, while the South region recorded the lowest.
+**- Monthly Sales Trends:** November recorded the highest monthly sales, while February recorded the lowest.
+**- Category Performance:** Technology generated the highest revenue and profit among the product categories.
+**- Product Performance:** Products were compared based on their revenue contributions.
 
 ---
 
-💡 Conclusion
+## ⚙️ Project Workflow
 
-This project demonstrates how Microsoft Excel can be used to prepare data, analyze business performance, visualize sales trends, and communicate meaningful insights.
-
-It highlights the importance of monitoring revenue, profitability, regional performance, product categories, and monthly sales trends to support informed business decisions.
+**1. Data Preparation:** Cleaned and formatted the dataset for analysis.
+**2. Data Analysis:** Used PivotTables to summarize sales, profit, quantity, and category performance.
+**3. Trend Analysis:** Examined monthly sales patterns and month-over-month changes.
+**4. Data Visualization:** Created charts to communicate key findings.
+**5. Dashboard Development:** Combined KPIs and visualizations into an interactive Excel dashboard.
 
 ---
 
-🏷️ Project Information
+## 🖥️ Dashboard Preview
 
-Category| Details
-Project Type| Data Analytics
-Business Area| Sales Performance Analysis
-Primary Tool| Microsoft Excel
-Key Techniques| Data Cleaning, PivotTables, PivotCharts, Data Visualization
+"Superstore Sales Performance Dashboard" (IMG_20261024_083006.jpg)
+
+---
+
+## 📁 Project Files
+
+- "Superstore_Sales_Performance_Dashboard.xlsx" — Excel workbook containing the analysis and dashboard.
+- "IMG_20261024_083006.jpg" — Dashboard preview image.
+- "README.md" — Project documentation.
+
+---
+
+## 💡 Business Value
+
+This project demonstrates the use of Excel for transforming raw data into meaningful business insights. The dashboard helps users monitor performance indicators, identify sales trends, compare regional performance, and evaluate product category performance to support informed business decisions.
+
+---
+
+## 👩‍💻 Author
+
+Dike Vivian Chinelo
+
+Data Analyst, Statistician 
+
+Technical Skills: Excel | SQL | Power BI | SPSS | Python (Currently Learning)
+
+---

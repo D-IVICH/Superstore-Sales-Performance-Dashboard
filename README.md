@@ -95,3 +95,7 @@ Conclusion
 This project demonstrates the use of Microsoft Excel to prepare data, analyze sales performance, develop a dashboard, and communicate meaningful business insights.
 
 The findings highlight the value of monitoring revenue, profitability, regional performance, product categories, and monthly sales trends to support informed business decisions.
+
+## Dashboard Preview
+
+![Superstore Sales Dashboard](IMG_20261024_083006.jpg)

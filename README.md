@@ -50,8 +50,11 @@ Total Profit| $286,397.02
 ## 🔍 Key Business Insights
 
 **- Regional Performance:** The West region recorded the highest revenue, while the South region recorded the lowest.
+
 **- Monthly Sales Trends:** November recorded the highest monthly sales, while February recorded the lowest.
+
 **- Category Performance:** Technology generated the highest revenue and profit among the product categories.
+
 **- Product Performance:** Products were compared based on their revenue contributions.
 
 ---

@@ -59,17 +59,20 @@ Total Profit| $286,397.02
 ## ⚙️ Project Workflow
 
 **1. Data Preparation:** Cleaned and formatted the dataset for analysis.
+
 **2. Data Analysis:** Used PivotTables to summarize sales, profit, quantity, and category performance.
+
 **3. Trend Analysis:** Examined monthly sales patterns and month-over-month changes.
+
 **4. Data Visualization:** Created charts to communicate key findings.
+
 **5. Dashboard Development:** Combined KPIs and visualizations into an interactive Excel dashboard.
 
 ---
 
 ## 🖥️ Dashboard Preview
 
-"Superstore Sales Performance Dashboard" (IMG_20261024_083006.jpg)
-
+![Superstore Sales Performance Dashboard](IMG_20261024_083006.jpg)
 ---
 
 ## 📁 Project Files
